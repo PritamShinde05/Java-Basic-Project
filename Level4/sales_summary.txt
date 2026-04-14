@@ -1,0 +1,13 @@
+Apple iPhone, Electronics, 79999.0, 5, 399995.0
+Samsung TV, Electronics, 45000.0, 3, 135000.0
+Nike Shoes, Fashion, 4999.0, 10, 49990.0
+Levi Jeans, Fashion, 2999.0, 8, 23992.0
+Rice 5kg, Grocery, 350.0, 50, 17500.0
+Dairy Milk, Grocery, 200.0, 30, 6000.0
+HP Laptop, Electronics, 65000.0, 4, 260000.0
+Adidas Cap, Fashion, 999.0, 15, 14985.0
+Wheat 10kg, Grocery, 450.0, 40, 18000.0
+Sony Headphones, Electronics, 8999.0, 7, 62993.0
+
+Total Records: 10
+Total Revenue: 988455.0

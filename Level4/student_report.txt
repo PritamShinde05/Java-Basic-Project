@@ -1,0 +1,16 @@
+Student Performance Report
+==========================================
+
+Name     : Pritam Shinde
+Roll No  : 3022
+Marks:
+  Maths     : 95.0
+  Science   : 92.0
+  English   : 91.0
+  Computer  : 94.0
+Performance:
+  Total     : 372.0 / 400
+  Average   : 93.00%
+  Grade     : A+
+  Result    : PASS
+  Remark    : Excellent performance
